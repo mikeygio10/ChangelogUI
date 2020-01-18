@@ -1,10 +1,10 @@
-name: StaffUI
+name: RulesUI
 author: Ameer4Real
 main: Ameer4Real\StaffUI
 version: 1.0
-description: UI used just for staff
+description: UI used just for rules
 api: [3.0.0]
 commands:
-    staff:
+    rules:
         default: true
-        description: List of all staff
+        description: List of all rules
