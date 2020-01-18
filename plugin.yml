@@ -1,6 +1,6 @@
 name: RulesUI
 author: Ameer4Real
-main: Ameer4Real\StaffUI
+main: Ameer4Real\RulesUI
 version: 1.0
 description: UI used just for rules
 api: [3.0.0]
