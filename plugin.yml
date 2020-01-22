@@ -1,10 +1,10 @@
-name: RulesUI
+name: ChangelogUI
 author: Ameer4Real
-main: Ameer4Real\RulesUI
+main: Ameer4Real\ChangelogUI
 version: 1.0
-description: UI used just for rules
+description: UI
 api: [3.0.0]
 commands:
-    rules:
+    changelog:
         default: true
-        description: List of all rules
+        description: See whats new on the server!
